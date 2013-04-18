@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FishingLogActivity!</string>
+    <string name="app_name">FishingLog</string>
+    <string name="btn_add_log">ログ登録</string>
+    <string name="btn_start_entry">エントリー開始</string>
+    <string name="btn_end_entry">エントリー終了</string>
+    <string name="log_time">釣行日時</string>
+    <string name="log_location">釣行場所</string>
+    <string name="log_comment">コメント</string>
+    <string name="btn_log_regist">登録</string>
+
+</resources>
